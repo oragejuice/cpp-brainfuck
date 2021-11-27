@@ -4,6 +4,7 @@
 
 using namespace std;
 
+//namespace so all can see
 namespace memory
 {
 	int cells[32];
